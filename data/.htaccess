@@ -1,0 +1,4 @@
+<FilesMatch ~ "/data">
+
+  Deny from all
+</FilesMatch>
